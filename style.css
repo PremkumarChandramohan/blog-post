@@ -1,0 +1,14 @@
+body{
+  background-color: antiquewhite;
+}
+.header{
+    text-align: center;
+}
+.header h1{
+    font-family: verdana;
+}
+.buttons a{
+  background-color: rgb(0, 255, 179);
+  color: black;
+  border-radius: 5px;
+}
